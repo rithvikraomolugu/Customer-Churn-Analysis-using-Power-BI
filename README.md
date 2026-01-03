@@ -43,7 +43,3 @@ This project analyzes customer churn behavior using **Power BI** and the **Telco
 - Power BI  
 - DAX  
 - Data Visualization  
-
----
-
-This project demonstrates how Power BI can be used to uncover churn patterns and support data-driven business decisions.
